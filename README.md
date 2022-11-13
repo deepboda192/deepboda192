@@ -92,8 +92,9 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
-## Connect with me
+#### Connect with me
 
 <a href="https://in.linkedin.com/in/deepboda"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://www.instagram.com/deep_boda_192/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
