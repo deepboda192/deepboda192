@@ -5,7 +5,7 @@
 <p align="center"><img width="100%" alt="" src="./assets/Header.png" /></p>
 
 
-## 👨🏻‍💻 &nbsp;About Me:
+<!-- ## 👨🏻‍💻 &nbsp;About Me: -->
 - 💼 &nbsp;Passionate Frontend Engineer who loves to solve real world challenges.
 - 💻 &nbsp;I spend most of my time writing JavaScript.
 - 🌱 &nbsp;I’m currently learning everything that comes in my way.
