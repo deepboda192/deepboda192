@@ -1,5 +1,5 @@
 <p align="left">
-	<img src="https://komarev.com/ghpvc/?username=deepboda192&color=blueviolet&style=flat-square&label=Profile+Views" />
+	<img src="https://komarev.com/ghpvc/?username=deepboda192&color=blueviolet&style=flat-square&label=Profile+Views" style="border-radius: 30px" />
 </p>
 
 <p align="center"><img width="100%" alt="" src="./assets/Header.png" /></p>
@@ -14,7 +14,7 @@
 <br/>
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Languages and Tools:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -101,7 +101,8 @@
 <a href="mailto:bodadeep1999@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://calendly.com/deep_boda_192/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
 
-
+<br/>
+<br/>
 
 
 
