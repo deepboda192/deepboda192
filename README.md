@@ -2,7 +2,7 @@
 	<img src="https://komarev.com/ghpvc/?username=deepboda192&color=blueviolet&style=flat-square&label=Profile+Views" style="border-radius: 30px" />
 </p>
 
-<p align="center"><img width="100%" alt="" src="./assets/Header.png" /></p>
+<p align="center"><img width="100%" style={{ borderRadius: '20px' }} alt="" src="https://ik.imagekit.io/8hx3gwitb/header.png" /></p>
 
 
 <!-- ## 👨🏻‍💻 &nbsp;About Me: -->
